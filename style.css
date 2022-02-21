@@ -1,0 +1,11 @@
+.blog {
+    background-color: aqua;
+    margin: 50px;
+    padding: 30px 50px;
+    border: 50px solid yellow;
+    border-radius: 15px;
+}
+
+.blog_head {
+    text-align: center;
+}
